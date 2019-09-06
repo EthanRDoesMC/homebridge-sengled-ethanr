@@ -1,3 +1,4 @@
+# Welcome!
 ### Information
 This does not install like a normal homebridge plugin because I am very new to this. I'll look into it, though.
 
